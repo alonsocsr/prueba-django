@@ -3,3 +3,4 @@ Django==5.1
 django-allauth==64.1.0
 python-dotenv==1.0.1
 sqlparse==0.5.1
+tzdata==2024.1
